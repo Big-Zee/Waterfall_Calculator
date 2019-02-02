@@ -1,2 +1,2 @@
 # Waterfall_Calculator
-Simple implementation of waterfall tasks
+Simple implementation of tasks that are triggered in some order like waterfall.
